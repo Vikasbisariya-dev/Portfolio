@@ -48,7 +48,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-      I amm a dedicated SDE intern at TechSynerich Technologies, proficient in software development with a focus on JavaScript, and adept at leveraging frameworks such as React and Node.js. As a fast learner, I thrive on close collaboration with clients to engineer efficient, scalable, and user-centric solutions that address real-world challenges. Let's work together to bring your ideas to life!
+      I am a dedicated SDE intern at TechSynerich Technologies, proficient in software development with a focus on JavaScript, and adept at leveraging frameworks such as React and Node.js. As a fast learner, I thrive on close collaboration with clients to engineer efficient, scalable, and user-centric solutions that address real-world challenges. Let's work together to bring your ideas to life!
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
